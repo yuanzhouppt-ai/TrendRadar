@@ -62,7 +62,8 @@ ADAS
 具身智能
 
 芯片
-ai 芯片
+ai芯片
+存储芯片
 光刻机
 
 算力
@@ -92,3 +93,8 @@ DRAM
 SK
 三星
 美光
+
+agent
+skill
+claude code
+openclaw
