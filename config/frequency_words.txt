@@ -98,3 +98,15 @@ agent
 skill
 claude code
 openclaw
+
+汽车零部件
+汽车产业链
+智驾供应商
+零部件供应商
+动力电池
+激光雷达
+线控底盘
+
+自动驾驶
+智能驾驶
+fsd
