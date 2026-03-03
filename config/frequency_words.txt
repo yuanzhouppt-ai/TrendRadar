@@ -41,11 +41,18 @@ deepmind
 
 chatgpt
 openai
+
 sora
 grok
 claude
 Anthropic
 meta
+
+minimax
+Qwen
+千问
+智谱
+Z.AI
 
 ai
 !gai
@@ -110,3 +117,7 @@ openclaw
 自动驾驶
 智能驾驶
 fsd
+
+财报
+年报
+IPO
